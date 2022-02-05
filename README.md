@@ -8,11 +8,13 @@ Multiple Desktop setup
 - [Display Link Manager](https://www.synaptics.com/products/displaylink-graphics/downloads/macos)
 - [Monitor Control](https://github.com/MonitorControl/MonitorControl)
 - [Mirror Displays](https://github.com/fcanas/mirror-displays)
+- [winddcutil](https://github.com/scottaxcell/winddcutil)
 
 ### Configuration files
 
 - ZSH Run Command
 - Iterm2 preferences
+- Toggle Monitor Input # script to toggle the input of the monitor from HDMI 1 -> HDMI2
 
 
 ### Plugins and other installations
