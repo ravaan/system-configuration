@@ -2,6 +2,8 @@
 
 System configurations, currently this has only some of the advanced configurations rather than all, the objective is to keep making this a comprehensive guide to system setup.
 
+This configuration is being used in both Windows and MacOS operating systems together.
+
 ### Software and Tools
 
 Multiple Desktop setup
