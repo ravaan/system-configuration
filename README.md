@@ -12,6 +12,10 @@ Multiple Desktop setup
 - [Mirror Displays](https://github.com/fcanas/mirror-displays)
 - [winddcutil](https://github.com/scottaxcell/winddcutil)
 
+Clipboard Manager
+- Mac: [Maccy](https://maccy.app/)
+- Windows: [Ditto](https://www.microsoft.com/en-us/p/ditto-clipboard/9nblggh3zbjq)
+
 ### Configuration files
 
 - ZSH Run Command
