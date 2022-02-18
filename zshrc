@@ -28,7 +28,7 @@ alias off="mirror -l 1 2"
 alias on="mirror -off"
 
 # export default key dir
-export KEY_DIR="/Users/arpitagarwal/Documents/dev/keys"
+export KEY_DIR="$HOME/Documents/dev/keys"
 export FH_KEY="$KEY_DIR/fh.pem"
 export COMMUNITI_KEY="$KEY_DIR/communiti.pem"
 
