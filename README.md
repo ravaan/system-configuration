@@ -13,8 +13,17 @@ Multiple Desktop setup
 - [winddcutil](https://github.com/scottaxcell/winddcutil)
 
 Clipboard Manager
-- Mac: [Maccy](https://maccy.app/)
+- MacOS: [Maccy](https://maccy.app/)
 - Windows: [Ditto](https://www.microsoft.com/en-us/p/ditto-clipboard/9nblggh3zbjq)
+
+### Proxy
+
+ - Windows:  [ProxyCap](https://www.proxycap.com/), create a new proxy using the key file you must have and route all traffic using that.
+ - Linux/MacOS: [sshuttle](https://github.com/sshuttle/sshuttle)  
+        - `sshuttle -e 'ssh -i <key file here>' -r <user-name>@<host> 0.0.0.0/0`  
+        - 0.0.0.0/0 will forward all the traffic and this will let you connect to the db from local.  
+        - Features like individual subnet forwarding and proxy chaining are also avaialble.  
+
 
 ### Configuration files
 
